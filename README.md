@@ -1,16 +1,20 @@
-## Hi there 👋
+<h3 align="left">Hello, welcome to my Github page!</h3>
 
-<!--
-**HailKingPengu/HailKingPengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm Rutger ten Brinke, and i'm a programmer, currently studying Creative Media and Game Technology at Saxion University of Applied Sciences. <br>I really like combining programming and art, specifically using prodecural generation and shaders.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left"></h2>
+
+###
+
+<p align="left">Portfolio website: 
+  <a href="https://rutgertenbrinke.wixsite.com/portfolio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Andruchne/Andruchne/main/Logos/csharp.svg" alt="csharp" width="55" height="55"/>
+<br>Itch.io:
+  <a href="https://hatinc.itch.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Andruchne/Andruchne/main/Logos/csharp.svg" alt="csharp" width="55" height="55"/>
+<br>LinkedIn:</p>
+  <a href="https://www.linkedin.com/in/rutger-ten-brinke-611a8926a/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Andruchne/Andruchne/main/Logos/csharp.svg" alt="csharp" width="55" height="55"/>
+
+###
