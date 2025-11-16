@@ -11,10 +11,10 @@
 ###
 
 <p align="left">Portfolio website: 
-  <a href="https://rutgertenbrinke.wixsite.com/portfolio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Andruchne/Andruchne/main/Logos/csharp.svg" alt="csharp" width="55" height="55"/>
+  <a href="https://rutgertenbrinke.wixsite.com/portfolio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/>
 <br>Itch.io:
-  <a href="https://hatinc.itch.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Andruchne/Andruchne/main/Logos/csharp.svg" alt="csharp" width="55" height="55"/>
+  <a href="https://hatinc.itch.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/>
 <br>LinkedIn:</p>
-  <a href="https://www.linkedin.com/in/rutger-ten-brinke-611a8926a/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Andruchne/Andruchne/main/Logos/csharp.svg" alt="csharp" width="55" height="55"/>
+  <a href="https://www.linkedin.com/in/rutger-ten-brinke-611a8926a/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/>
 
 ###
