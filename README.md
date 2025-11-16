@@ -13,10 +13,10 @@
 
 <h3 align="left">Portfolio website: 
 <a href="https://rutgertenbrinke.wixsite.com/portfolio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/> </a></h3>
-<br>
+
 <h3 align="left">Itch.io:
 <a href="https://hatinc.itch.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/> </a></h3>
-<br>
+
 <h3 align="left">LinkedIn:
 <a href="https://www.linkedin.com/in/rutger-ten-brinke-611a8926a/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/> </a></h3>
 
