@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">Portfolio website: 
+<p align="left">Portfolio website: </p>
   <a href="https://rutgertenbrinke.wixsite.com/portfolio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/>
-<br>Itch.io:
+<br>Itch.io:</p>
   <a href="https://hatinc.itch.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/>
 <br>LinkedIn:</p>
   <a href="https://www.linkedin.com/in/rutger-ten-brinke-611a8926a/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HailKingPengu/HailKingPengu/main/link-icon.svg" alt="csharp" width="30" height="30"/>
